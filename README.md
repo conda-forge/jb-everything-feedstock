@@ -1,11 +1,11 @@
-About jb-everything
-===================
+About jb-everything-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jb-everything-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/jb-everything/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jb-everything-feedstock/blob/main/LICENSE.txt)
 
 Summary: Large list of imports for machine learning.
 
